@@ -1,0 +1,102 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-scrollable-tab-view@0.*",
+        "scope": null,
+        "escapedName": "react-native-scrollable-tab-view",
+        "name": "react-native-scrollable-tab-view",
+        "rawSpec": "0.*",
+        "spec": ">=0.0.0 <1.0.0",
+        "type": "range"
+      },
+      "/Users/ali/Projects/allele-app"
+    ]
+  ],
+  "_from": "react-native-scrollable-tab-view@>=0.0.0 <1.0.0",
+  "_id": "react-native-scrollable-tab-view@0.5.3",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-scrollable-tab-view",
+  "_nodeVersion": "4.1.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-scrollable-tab-view-0.5.3.tgz_1468347266619_0.6885842669289559"
+  },
+  "_npmUser": {
+    "name": "headless",
+    "email": "skv-headless@yandex.ru"
+  },
+  "_npmVersion": "2.14.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-scrollable-tab-view@0.*",
+    "scope": null,
+    "escapedName": "react-native-scrollable-tab-view",
+    "name": "react-native-scrollable-tab-view",
+    "rawSpec": "0.*",
+    "spec": ">=0.0.0 <1.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-scrollable-tab-view/-/react-native-scrollable-tab-view-0.5.3.tgz",
+  "_shasum": "fe8c905eacbe28e7ef91ab89925891db6e125c39",
+  "_shrinkwrap": null,
+  "_spec": "react-native-scrollable-tab-view@0.*",
+  "_where": "/Users/ali/Projects/allele-app",
+  "author": {
+    "name": "Brent Vatne"
+  },
+  "bugs": {
+    "url": "https://github.com/brentvatne/react-native-scrollable-tab-view/issues"
+  },
+  "dependencies": {
+    "react-static-container": "^1.0.1",
+    "react-timer-mixin": "^0.13.3"
+  },
+  "description": "[![npm version](https://badge.fury.io/js/react-native-scrollable-tab-view.svg)](https://badge.fury.io/js/react-native-scrollable-tab-view)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "fe8c905eacbe28e7ef91ab89925891db6e125c39",
+    "tarball": "https://registry.npmjs.org/react-native-scrollable-tab-view/-/react-native-scrollable-tab-view-0.5.3.tgz"
+  },
+  "gitHead": "a66720150307c4f1352a215151aadcdd28e25b37",
+  "homepage": "https://github.com/brentvatne/react-native-scrollable-tab-view#readme",
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "tab",
+    "scrollable"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "brentvatne",
+      "email": "brentvatne@gmail.com"
+    },
+    {
+      "name": "headless",
+      "email": "skv-headless@yandex.ru"
+    }
+  ],
+  "name": "react-native-scrollable-tab-view",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react-native": ">=0.20.0"
+  },
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brentvatne/react-native-scrollable-tab-view.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.3"
+}
